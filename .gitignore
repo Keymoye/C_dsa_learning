@@ -1,0 +1,14 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Code::Blocks
+bin/
+obj/
+*.cbp
+*.layout
+
+# OS files
+.DS_Store
+Thumbs.db
