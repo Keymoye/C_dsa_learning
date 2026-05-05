@@ -1,7 +1,5 @@
 # 🔍 Binary Search in C
 
-# 🔍 Binary Search in C
-
 ![C](https://img.shields.io/badge/language-C-blue)
 ![Algorithm](https://img.shields.io/badge/type-DSA-green)
 

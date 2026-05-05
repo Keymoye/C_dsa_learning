@@ -8,6 +8,7 @@ bin/
 obj/
 *.cbp
 *.layout
+*.depend
 
 # OS files
 .DS_Store
