@@ -1,5 +1,10 @@
 # 🔍 Binary Search in C
 
+# 🔍 Binary Search in C
+
+![C](https://img.shields.io/badge/language-C-blue)
+![Algorithm](https://img.shields.io/badge/type-DSA-green)
+
 A clean, efficient implementation of the Binary Search algorithm in C, designed for learning and production use.
 
 | Aspect | Details |
